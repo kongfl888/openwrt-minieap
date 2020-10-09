@@ -1,0 +1,13 @@
+Package: minieap
+Version: 0.93-2
+Depends: libc
+Source: package/minieap
+SourceName: minieap
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1602079985
+Maintainer: updateing
+Architecture: all
+Installed-Size: 106870
+Description:  Extensible 802.1x client with Ruijie v3 (v4) plugin
